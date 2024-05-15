@@ -52,8 +52,12 @@ function calculation(a,b,operation){
     
 }
 
+console.log(calculation(5,6, '+'));
+console.log(calculation(5,6, '-'));
 console.log(calculation(5,6, '*'));
+console.log(calculation(5,6, '/'));
 console.log(calculation(5,6, 'string'));
+
 
 
 
